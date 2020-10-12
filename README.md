@@ -1,4 +1,4 @@
-# 自定义 Promise
+# 手写 Promise
 
 > Promise.js 是 ES5 function 实现 Promise 的完整版
 
